@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Minecraft Server**
  
- 🌱 I’m currently learning **Docker, Java, AWS**
+ 🌱 I’m currently learning **C++**
 <br/>
 
  </div>
